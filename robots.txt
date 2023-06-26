@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Chenyungchin.github.io/sitemap.xml
+Sitemap: https://chenyungchin.github.io/sitemap.xml
