@@ -8,4 +8,5 @@ nav_order: 4
 ---
 
 <h4>Academic</h4>
+<h4>Teaching Assistant</h4>
 <h4>Extracurricular</h4>
