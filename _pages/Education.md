@@ -2,12 +2,18 @@
 layout: page
 permalink: /education/
 title: Education
-description: I fulfilled NTU graduation requirements within 3 years (Sep'19~Jun'22), and went to Keio University (Japan) as a visiting student during Oct'22~Jul'23
+description: 
 nav: true
 nav_order: 1
 ---
 
-<h4>Academic Performance</h4>
+<h4><strong>Timeline</strong></h4>
+<ul>
+    <li> Undergraduate (major: EE), National Taiwan University (Taiwan), Sep 2019 - Jun 2022 </li>
+    <li> Visiting Student, Keio University (Japan), Oct 2022 - Jul 2023 </li>
+</ul>
+
+<h4><strong>Academic Performance</strong></h4>
 <ul>
     <li>Ranking: <strong>5th</strong> / 256 (2%) </li>
     <li>Major GPA (Electrical Engineering-related)</li>
@@ -30,7 +36,7 @@ nav_order: 1
     </ul>
 </ul>
 
-<h4>Selected Courses</h4>
+<h4><strong>Selected Courses</strong></h4>
 <ul>
     <li><strong> Hardware/ML Related Courses </strong></li>
     <ul>
