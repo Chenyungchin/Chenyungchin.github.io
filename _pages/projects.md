@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: see my projects!!!
+description: some of my projects related to ICS, Makers, and Software!!!
 nav: true
 nav_order: 5
 display_categories: [Integrated Circuit Designs, Maker Designs, Software Developments]
