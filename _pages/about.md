@@ -11,15 +11,15 @@ profile:
   address: >
     <p>jim.chen.work@gmail.com</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! I am an undergraduate student at National Taiwan University, majoring in electrical engineering. I am currently working in the <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab, NTU</a>, advised by <a href="https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943022">Prof. Tsung-Te Liu</a>, and the <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group, Keio (Japan)</a>, advised by <a href="https://www.st.keio.ac.jp/en/tprofile/elec/yoshioka_kentaro.html">Prof. Kentaro Yoshioka</a>. 
 
-My research interests span In-memory Computing, Neural Network Processor, and Computer Architecture. I like to design new and cool stuff. In my free time, I like to travel, do some sports, and explore new dessert shops.
+My research interests span In-memory Computing, Neural Network Processor, and Computer Architecture. I like to design new and cool stuff. In my free time, I like to travel, do some sports, play puzzle-solving games, and explore new dessert shops.
 
 Currently, I am actively seeking a Ph.D. program for the Fall of 2024!
 

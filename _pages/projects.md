@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: see my projects!!!
+nav: true
 nav_order: 5
-display_categories: [work, fun]
+display_categories: [Integrated Circuit Designs, Maker Designs, Software Developments]
 horizontal: false
 ---
 
