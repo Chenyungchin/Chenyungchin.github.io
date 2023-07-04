@@ -29,9 +29,9 @@ nav_order: 1
     <ul>
         <li>Overall: <strong>4.25</strong> / 4.30</li>
         <ul>
-            <li>Sep'19 ~ Jun'20: <strong>4.23</strong> / 4.30</li>
-            <li>Sep'20 ~ Jun'21: <strong>4.23</strong> / 4.30</li>
-            <li>Sep'21 ~ Jun'22: <strong>4.30</strong> / 4.30</li>
+            <li>Sep'19 ~ Jun'20: <strong>4.23</strong> / 4.30 (top 4%)</li>
+            <li>Sep'20 ~ Jun'21: <strong>4.23</strong> / 4.30 (top 6%)</li>
+            <li>Sep'21 ~ Jun'22: <strong>4.30</strong> / 4.30 (top 1%, <strong>ranked 1st out of 200+ students in both semesters</strong>)</li>
         </ul>
     </ul>
 </ul>

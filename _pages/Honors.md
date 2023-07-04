@@ -28,7 +28,7 @@ nav_order: 2
 
 <h4>Scholarships</h4>
 <ul>
-    <li>Irving T. Ho Memorial Scholarship, <a href="https://irvingthofoundation.github.io/index.php.htm">Irving T. Ho Memorial Foundation</a>, Dec 2022</li>
+    <li><strong>Irving T. Ho Memorial Scholarship</strong>, <a href="https://irvingthofoundation.github.io/index.php.htm">Irving T. Ho Memorial Foundation</a>, Dec 2022</li>
         <ul>
             <li> Awarded to <strong>4 NTUEE students</strong> for their research potentials</li>
             <li> Prize: 40000TWD (~1300 USD) </li>

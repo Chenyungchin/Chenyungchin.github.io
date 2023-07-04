@@ -11,17 +11,27 @@ nav_order: 4
 <ul>
     <li> Sep 2021 - Present, <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab</a>, NTU (Taiwan)</li>
     <li> Sep 2022 - Jul 2023, <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group</a>, Keio (Japan)
-    <img src="../assets/img/yoshioka_lab/1.jpg" style="max-height: 200px;">
+    <div class="row">
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/yoshioka_lab/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
     </li>
 </ul>
 <h4>Academic</h4>
 <ul>
     <!-- vlsi symposium -->
     <li>Attendee, VLSI Symposium 2023 (Kyoto, Japan)
-    <div>
-        <img src="../assets/img/vlsi/1.jpg" style="max-height: 200px;">
-        <img src="../assets/img/vlsi/2.jpg" style="max-height: 200px;">
-        <img src="../assets/img/vlsi/3.jpg" style="max-height: 200px;">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/vlsi/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/vlsi/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm-3 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/vlsi/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
     </li>
     <!-- tanet -->
@@ -48,9 +58,13 @@ nav_order: 4
     </ul>
     <!-- NTUEE baseball team -->
     <li><strong>Player / Vice Captain (Sep'21-Jun'22) of NTUEE Baseball Team</strong>, Sep 2019 - June 2022
-    <div>
-        <img src="../assets/img/baseball/1.jpg" style="max-height: 200px;">
-        <img src="../assets/img/baseball/2.jpg" style="max-height: 200px;">
+    <div class="row">
+        <div class="col-sm-4 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/baseball/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/baseball/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
     </li>
     <!-- HiddenNTU -->
