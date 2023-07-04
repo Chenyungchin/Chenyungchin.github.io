@@ -4,7 +4,7 @@ permalink: /honors/
 title: Honors
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <h4>Academic Awards</h4>

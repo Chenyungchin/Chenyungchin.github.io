@@ -83,6 +83,9 @@ nav_order: 1
             </ul>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2032500&class=&dpt_code=9010&ser_no=25078&semester=109-2&lang=EN">Data Structure (Spring'21)</a>, <strong>A+</strong> </li>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2034300&class=&dpt_code=9010&ser_no=48267&semester=109-1&lang=EN">Web Programming (Fall'20)</a>, <strong>A+</strong> </li>
+            <ul>
+                <li>Developed a community website for foodies! see <a href="../projects/NTU%20Tweater/">here</a></li>
+            </ul>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2039000&class=01&dpt_code=9010&ser_no=26355&semester=109-1&lang=EN">Algorithms (Fall'20)</a>, <strong>A+</strong> </li>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2020130&class=03&dpt_code=9010&ser_no=82561&semester=109-1&lang=EN">Differential Equation (Fall'20)</a>, <strong>A+</strong> </li>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2011000&class=01&dpt_code=9010&ser_no=11555&semester=108-2&lang=EN">Cornerstone EECS Design and Implementation (Spring'20)</a>, <strong>A+</strong> </li>

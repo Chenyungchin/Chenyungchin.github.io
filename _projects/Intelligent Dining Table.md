@@ -36,9 +36,7 @@ As everything has to be made from scratch within 24hr in makeNTU, we focused on 
         {% include video.html path="https://www.youtube.com/embed/oG9dLqHQQQQ?mute=1" width="230" height="350" title="example image" class="rounded z-depth-1"%}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
 <h4><strong>IoT Menu</strong></h4>
 <strong>LCD module / Arduino</strong>
 <div class="row">
@@ -62,7 +60,7 @@ As everything has to be made from scratch within 24hr in makeNTU, we focused on 
 </div>
 
 
-<h4>🌸 Photo Dump 🌸</h4>
+<h4><strong>🌸 Photo Dump 🌸</strong></h4>
 <div class="row justify-content-sm-center">
     <div class="col-sm-9 mt-3 mt-md-0">
         {% include figure.html path="assets/img/makentu_table/1.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -72,7 +70,7 @@ As everything has to be made from scratch within 24hr in makeNTU, we focused on 
     </div>
 </div>
 ==================== 😎 我是分隔線 😎 tl;dr 😎 ====================
-<h4>🌸 作品理念 🌸 Spirit of Our Work 🌸</h4>
+<h4><strong>🌸 作品理念 🌸 Spirit of Our Work 🌸</strong></h4>
 <p>對「美」的體察往往源自生活中的寬裕。</p>
 <p>試想你背負著一天份的沉重走出電子設計自動化導論課的教室，昏黃的斜陽流淌在大王椰子樹間，把時間拉得很悠長，在從總圖書館通往臺大正門的路彷彿成為了這一生的縮影。你刻意的放緩踩踏板的頻率、想起了太宰筆下的這樣的一句話:「這是生命的黃昏、藝術的黃昏，人類的黃昏。」霎時，你意識到這個世界是充滿活力的，整個夏季都為你鼓譟了起來。總是有這樣的一個瞬間，在平淡庸碌的人生裡，這一個瞬間就能讓人振奮。即使身心俱疲，卻感到無比富足。</p>
 <p>你走進夕陽盡頭的那家餐館，在窗台邊的座位坐下準備療癒今日的疲憊，或望向窗外揣測臺北落日後的喧囂、或膚淺的掠過餐廳的裝潢擺設，最後聚焦在模仿拙劣的盜版名畫、或翻開已些微泛黃的書頁，耽溺在村上春樹筆下寧靜卻深邃的汪洋中，在餐點送至桌前的空閒，有意識的攝取生活中的美。</p>
