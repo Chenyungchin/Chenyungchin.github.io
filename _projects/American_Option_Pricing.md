@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 18um CHIP of American Option Pricing Accelerator
+title: 0.18um CHIP of American Option Pricing Accelerator
 description: Verilog / Innovus
 img: assets/img/12.jpg
 importance: 1
