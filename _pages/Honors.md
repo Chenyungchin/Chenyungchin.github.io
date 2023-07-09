@@ -40,7 +40,7 @@ nav_order: 3
         </ul>
     <li>Study Abroad Scholarship, <a href="https://www.jasso.go.jp/en/ryugaku/scholarship_j/ukeire.html">Japan Student Services Organization (JASSO)</a> </li>
         <ul>
-            <li> Awarded to outstanding international students studying in Japan, Oct 2022 ~ Sep 2023</li>
+            <li> Awarded to outstanding international students studying in Japan, Sep 2022 ~ Jul 2023</li>
             <li> Total Prize: 880000JPY (~6100 USD) </li>
         </ul>
 </ul>
