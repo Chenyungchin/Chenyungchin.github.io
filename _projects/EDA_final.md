@@ -4,7 +4,7 @@ title: Learning Arithmetic Operations from Gate-Level Circuit
 description: C++
 img: assets/img/12.jpg
 importance: 5
-category: ICS/HDL
+category: ICS/HDL (Unfinished)
 ---
 
 In collaboration with 張家翔、陳宥辰. 
