@@ -4,7 +4,7 @@ title: Hand-Motion-Controlled Doodle Jump Game on FPGA
 description: System Verilog / FPGA
 img: assets/img/FPGA/cover_photo_cropped.jpg
 importance: 2
-category: Integrated Circuit Designs
+category: ICS/HDL
 ---
 
     In collaboration with 張家翔、李允恩.

@@ -4,7 +4,7 @@ title: Foodie Community Website
 description: Javascript / React / HTML&CSS / GraphQL / Mongoose / MongoDB
 img: assets/img/web_programming/logo.png
 importance: 1
-category: Software Developments
+category: Software
 ---
 
     In collaboration with 張家翔、詹侑昕.

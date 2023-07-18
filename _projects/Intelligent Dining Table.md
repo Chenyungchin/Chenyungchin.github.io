@@ -4,7 +4,7 @@ title: Intelligent Dining Table
 description: Arduino / Python / Raspberry Pi / Several Sensors
 img: assets/img/makentu_table/cover.png
 importance: 1
-category: Maker Designs
+category: Maker
 ---
 
     In collaboration with 吳瑋倫、蔡東翰、陳宥辰.

@@ -4,7 +4,7 @@ title: 0.18um CHIP of American Option Pricing Accelerator
 description: Verilog / Innovus
 img: assets/img/12.jpg
 importance: 1
-category: Integrated Circuit Designs
+category: ICS/HDL
 ---
 
 In collaboration with 張家翔、莊詠翔、陳宥辰.
