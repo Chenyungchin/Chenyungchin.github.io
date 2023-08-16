@@ -77,7 +77,7 @@ nav_order: 1
     <ul>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2039800&class=&dpt_code=9010&ser_no=15213&semester=110-2&lang=EN">Communication System Lab (Spring'22)</a>, <strong><u>A+</u></strong> </li>
             <ul>
-                <li>Improved Super Resolution by combining sparse coding and adaptive interpolation. <a href="../projects/CommLab">(link)</a></li>
+                <li>Improved Super Resolution by combining sparse coding and adaptive interpolation.</li>
                 <li>Our work received <strong>the highest grade</strong> among 8 groups</li>
             </ul>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2032500&class=&dpt_code=9010&ser_no=25078&semester=109-2&lang=EN">Data Structure (Spring'21)</a>, <strong><u>A+</u></strong> </li>
@@ -92,7 +92,7 @@ nav_order: 1
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2020130&class=03&dpt_code=9010&ser_no=82561&semester=109-1&lang=EN">Differential Equation (Fall'20)</a>, <strong><u>A+</u></strong> </li>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2011000&class=01&dpt_code=9010&ser_no=11555&semester=108-2&lang=EN">Cornerstone EECS Design and Implementation (Spring'20)</a>, <strong><u>A+</u></strong> </li>
             <ul>
-                <li>Developed an automatic ping-pong ball collector! <a href="../projects/NTU%20Tweater/">(link)</a></li>
+                <li>Developed an automatic ping-pong ball collector! <a href="../projects/ball_collector/">(link)</a></li>
                 <li>Our work received <strong>Best Creative Award</strong> (out of 8 groups)</li>
             </ul>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2021000&class=01&dpt_code=9010&ser_no=39651&semester=108-2&lang=EN">Probability and Statistics (Spring'20)</a>, <strong><u>A</u></strong> </li>
@@ -101,4 +101,12 @@ nav_order: 1
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2010210&class=04&dpt_code=9010&ser_no=20181&semester=108-1&lang=EN">Computer Programming (Fall'19)</a>, <strong><u>A+</u></strong> </li>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2038100&class=&dpt_code=9010&ser_no=44514&semester=108-1&lang=EN">Modern Physics (Fall'19)</a>, <strong><u>A+</u></strong> </li>
     </ul>
+</ul>
+
+<h4><strong>Test/Certificate</strong></h4>
+<ul>
+    <li>TOEFL: <strong>110</strong> / 120 (R30, L29, S24, W27), Nov 2021</li>
+    <li>GRE: <strong>333</strong> / 340 (AW: 4 / 6), August 2022</li>
+    <li>JLPT N1 <strong>129</strong> / 180 (Passed), July 2022</li>
+    <li>JLPT N2 <strong>169</strong> / 180 (Passed), December 2021</li>
 </ul>

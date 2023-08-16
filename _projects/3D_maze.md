@@ -2,7 +2,7 @@
 layout: page
 title: 3D Maze
 description: Python
-img: assets/img/maze_cover.png
+img: assets/img/maze/maze_cover.png
 importance: 2
 category: Software
 ---

@@ -50,23 +50,35 @@ nav_order: 5
 </ul>
 <h4>Extracurricular</h4>
 <ul>
+    <!-- exchange -->
+    <li><strong>One-year Exchange Student in Keio University, Japan</strong>, Sep 2022 - Aug 2022</li>
+    <ul>
+        <li> Accumulated extensive experience in cross-cultural learning and effective communication with individuals from diverse backgrounds </li>
+    </ul>
     <!-- student ambassador -->
-    <li><strong>Student Ambassador of National Taiwan University</strong>, Oct 2021 - June 2022</li>
+    <li><strong>Student Ambassador of National Taiwan University</strong>, Oct 2021 - Jun 2022</li>
     <ul>
         <li> Guided international scholars through famous spots in Taiwan and led campus tours </li>
         <li> Assisted international conferences and affairs held in NTU</li>
     </ul>
-    <!-- NTUEE baseball team -->
-    <li><strong>Player / Vice Captain (Sep'21-Jun'22) of NTUEE Baseball Team</strong>, Sep 2019 - June 2022
     <div class="row">
-        <div class="col-sm-4 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/baseball/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/SA1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-sm-5 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/baseball/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/experience/SA2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-    </li>
+    <!-- NTUEE baseball team -->
+    <li><strong>Player / Vice Captain (Sep'21-Jun'22) of NTUEE Baseball Team</strong>, Sep 2019 - June 2022</li>
+    <div class="row">
+        <div class="col-sm-4 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/baseball1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/baseball2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
     <!-- HiddenNTU -->
     <li><strong>Member / Vice President (Sep'20-Jun'21) of <a href="https://www.facebook.com/hiddenntu/">HiddenNTU</a></strong>, Sep 2019 - June 2021</li>
     <ul>
@@ -81,6 +93,11 @@ nav_order: 5
             </a></li>
         </ul>
     </ul>
+    <div class="row">
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/hidden.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
     <!-- International Study Group -->
     <li><strong>Collaborative Study Group w/ Kobe University (Japan)</strong>, Sep 2021 - Feb 2022</li>
     <ul>
@@ -93,6 +110,14 @@ nav_order: 5
     <ul>
         <li> Held learning camps for rural elementary school students </li>
     </ul>
+    <div class="row">
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/kid_care1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/kid_care2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
     <li><strong>Volunteer Tutor in Chinese Fund of Childrens and Families</strong>, Sep 2020 - Jan 2021</li>
     <ul>
         <li> Assisted underprivileged students with their academic studies </li>

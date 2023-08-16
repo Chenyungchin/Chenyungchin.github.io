@@ -25,4 +25,4 @@ category: Small Stuff
 </div>
 
 ==================== 😎 我是分隔線 😎 tl;dr 😎 ====================
-<p>Fi~nally Conquers DRC 😎</p>
+<p>Fi~nally Conquered DRC 😎</p>
