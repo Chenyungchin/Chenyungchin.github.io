@@ -15,7 +15,8 @@ nav_order: 1
 
 <h4><strong>Academic Performance</strong></h4>
 <ul>
-    <li>Ranking: <strong>5th</strong> / 256 (2%) </li>
+    <!-- <li>Ranking: <strong>4th</strong> / 264 (2%) </li> -->
+    <li>Honorary Member of the Phi Tau Phi Scholastic Society <strong>(top 1% of college graduates)</strong></li>
     <li>Major GPA (Electrical Engineering-related)</li>
     <ul>
         <li>Overall: <strong>4.28</strong> / 4.30</li>

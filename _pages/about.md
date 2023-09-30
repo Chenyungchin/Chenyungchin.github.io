@@ -13,15 +13,17 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am an undergraduate student at National Taiwan University, majoring in electrical engineering. I am currently working in the <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab, NTU</a>, advised by <a href="https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943022">Prof. Tsung-Te Liu</a>, and the <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group, Keio (Japan)</a>, advised by <a href="https://www.st.keio.ac.jp/en/tprofile/elec/yoshioka_kentaro.html">Prof. Kentaro Yoshioka</a>. 
+Hi! I am an undergraduate student at National Taiwan University, majoring in electrical engineering. I have achieved a major GPA of 4.28 out of 4.30 and am honored to be recognized as an honorary member of Phi Tau Phi Scholastic Society (for top 1% of college graduates). I am currently working in the <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab, NTU</a>, advised by <a href="https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943022">Prof. Tsung-Te Liu</a>, and the <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group, Keio (Japan)</a>, advised by <a href="https://www.st.keio.ac.jp/en/tprofile/elec/yoshioka_kentaro.html">Prof. Kentaro Yoshioka</a>. 
 
-My research interests span In-memory Computing, Neural Network Processor, and Computer Architecture. I like to design new and cool stuff. In my free time, I like to travel, do some sports, play puzzle-solving games, and explore new dessert shops.
+My research interests span <strong>Memory-Centric Computing, Neural Network Processor, and Computer Architecture</strong>. I like to design new and cool stuff. In my free time, I like to travel, do some sports, play puzzle-solving games, and explore new dessert shops.
 
-Currently, I am actively seeking a Ph.D. program for the Fall of 2024!
+Currently, I am actively seeking a Ph.D. program for the Fall of 2024.
+
+Here is my <a href="assets/pdf/CHEN_YUNG_CHIN_CV.pdf">Curriculum Vitae</a>.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

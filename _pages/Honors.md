@@ -4,7 +4,7 @@ permalink: /honors/
 title: Honors
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <h4>Academic Awards</h4>
@@ -49,10 +49,10 @@ nav_order: 3
 <ul>
     <li> Research Grant, <a href="https://www.nstc.gov.tw/">National Science and Technology Council, Taiwan</a>, Jul 2022 ~ Jan 2023</li>
         <ul>
-            <li> Research Topic: Digital In-Memory Computing Circuits</li>
+            <li> Research Topic: System-Level Computing-In-Memory Processor for Neural Networks</li>
         </ul>
     <li> Research Grant, <a href="https://www.tsmc.com/english">TSMC </a>, Feb 2022 ~ Jun 2022</li>
         <ul>
-            <li> Research Topic: Digital In-Memory Computing Circuits</li>
+            <li> Research Topic: Digital Computing-In-Memory Circuits</li>
         </ul>
 </ul>

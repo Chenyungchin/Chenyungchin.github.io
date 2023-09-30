@@ -10,7 +10,7 @@ nav_order: 5
 <h4>Research</h4>
 <ul>
     <li> Sep 2021 - Present, <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab</a>, NTU (Taiwan)</li>
-    <li> Sep 2022 - Jul 2023, <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group</a>, Keio (Japan)
+    <li> Sep 2022 - Present, <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group</a>, Keio (Japan)
     <div class="row">
         <div class="col-sm-5 mt-3 mt-md-0">
             {% include figure.html path="assets/img/yoshioka_lab/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -34,6 +34,12 @@ nav_order: 5
         </div>
     </div>
     </li>
+    <!-- reviewer -->
+    <li>Secondary Reviewer</li>
+    <ul>
+        <li>ISSCC 2023, 2024</li>
+        <li>VLSI Symposium 2023</li>
+    </ul>
     <!-- tanet -->
     <li>Assistant, <a href="https://tanet2020.ntu.edu.tw/">Taiwan Academic Network Conference (TANET)</a></li>
     <ul>
@@ -43,9 +49,22 @@ nav_order: 5
 </ul>
 <h4>Teaching Assistant</h4>
 <ul>
+    <li><a href="https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab">EECS Lab</a> Undergraduate Research (Fall 2022, 2023)</li>
+    <ul>
+        <li> Instructed new lab members on <strong>analog and digital CIM</strong> techniques</li>
+        <li> Designed and taught <strong>Hspice, Virtuoso, Verilog</strong> training courses</li>
+    </ul>
+</ul>
+<ul>
+    <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2043200&class=&dpt_code=9010&ser_no=81707&semester=112-1&lang=en">Computer Architecture (Fall 2023)</a></li>
+    <ul>
+        <li> Design <strong>Verilog</strong> assignments and grade homeworks</li>
+    </ul>
+</ul>
+<ul>
     <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2031400&class=01&dpt_code=9010&ser_no=84207&semester=109-2&lang=EN">Signals and Systems (Spring 2021)</a></li>
     <ul>
-        <li> Delivered <strong>MATLAB</strong> lectures and held weekly problem-solving seminars </li>
+        <li> Delivered <strong>MATLAB</strong> lectures and held weekly problem-solving seminars</li>
     </ul>
 </ul>
 <h4>Extracurricular</h4>
@@ -54,6 +73,7 @@ nav_order: 5
     <li><strong>One-year Exchange Student in Keio University, Japan</strong>, Sep 2022 - Aug 2022</li>
     <ul>
         <li> Accumulated extensive experience in cross-cultural learning and effective communication with individuals from diverse backgrounds </li>
+        <li> Truly an eye-opening experience! Will dump some lovely pics later lmao </li>
     </ul>
     <!-- student ambassador -->
     <li><strong>Student Ambassador of National Taiwan University</strong>, Oct 2021 - Jun 2022</li>

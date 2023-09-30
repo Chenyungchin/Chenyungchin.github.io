@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: some of my projects related to ICS, Makers, and Software!!!
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [ICS/HDL, Maker, Software, Small Stuff]
 horizontal: false
 ---
