@@ -43,7 +43,7 @@ nav_order: 1
     <ul>
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2010060&class=&dpt_code=9010&ser_no=22053&semester=110-2&lang=EN">Integrated Circuit Design Lab (Spring'22)</a>, <strong><u>A+</u></strong> </li>
             <ul>
-                <li>Taped out a <strong>0.18um American Option Pricing chip</strong>. <a href="../projects/American_Option_Pricing">(link)</a></li>
+                <li>Taped out a <strong>180nm American Option Pricing chip</strong>. <a href="../projects/American_Option_Pricing">(link)</a></li>
             </ul>
         <!--  -->
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2033700&class=&dpt_code=9010&ser_no=55152&semester=110-2&lang=EN">Introduction to Electronic Design Automation (Spring'22)</a>, <strong><u>A+</u></strong> </li>
