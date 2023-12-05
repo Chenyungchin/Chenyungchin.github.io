@@ -126,7 +126,7 @@ nav_order: 5
 </ul>
 <h4>Volunteer Service</h4>
 <ul>
-    <li><strong>Member of NTU Student Service Club</strong>, Mar 2021 - Feb 2022</li>
+    <li><strong>Volunteer Member of NTU Student Service Club</strong>, Mar 2021 - Feb 2022</li>
     <ul>
         <li> Held learning camps for rural elementary school students </li>
     </ul>
@@ -138,7 +138,7 @@ nav_order: 5
             {% include figure.html path="assets/img/experience/kid_care2.jpg" title="" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-    <li><strong>Volunteer Tutor in Chinese Fund of Childrens and Families</strong>, Sep 2020 - Jan 2021</li>
+    <li><strong>Volunteer Tutor in the Chinese Fund of Children and Families</strong>, Sep 2020 - Jan 2021</li>
     <ul>
         <li> Assisted underprivileged students with their academic studies </li>
     </ul>
