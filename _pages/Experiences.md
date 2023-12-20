@@ -83,20 +83,20 @@ nav_order: 5
     </ul>
     <div class="row">
         <div class="col-sm-5 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/experience/sa1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/experience/sa1_comp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-sm-5 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/experience/sa2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/experience/sa2_comp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <!-- NTUEE baseball team -->
     <li><strong>Player / Vice Captain (Sep'21-Jun'22) of NTUEE Baseball Team</strong>, Sep 2019 - June 2022</li>
     <div class="row">
         <div class="col-sm-4 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/experience/baseball1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/experience/baseball1.jpg" title="" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-sm-5 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/experience/baseball2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/experience/baseball2.jpg" title="" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <!-- HiddenNTU -->
@@ -132,10 +132,10 @@ nav_order: 5
     </ul>
     <div class="row">
         <div class="col-sm-5 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/experience/kid_care1.jpg" title="" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/experience/kid_care1_comp.jpg" title="" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-sm-5 mt-3 mt-md-0">
-            {% include figure.html path="assets/img/experience/kid_care2.jpg" title="" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/experience/kid_care2_comp.jpg" title="" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <li><strong>Volunteer Tutor in the Chinese Fund of Children and Families</strong>, Sep 2020 - Jan 2021</li>
