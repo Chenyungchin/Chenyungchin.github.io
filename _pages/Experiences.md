@@ -35,11 +35,11 @@ nav_order: 5
     </div>
     </li>
     <!-- reviewer -->
-    <li>Secondary Reviewer</li>
+    <!-- <li>Secondary Reviewer</li>
     <ul>
         <li>ISSCC 2023, 2024</li>
         <li>VLSI Symposium 2023</li>
-    </ul>
+    </ul> -->
     <!-- tanet -->
     <li>Assistant, <a href="https://tanet2020.ntu.edu.tw/">Taiwan Academic Network Conference (TANET)</a></li>
     <ul>
@@ -121,7 +121,7 @@ nav_order: 5
     <!-- International Study Group -->
     <li><strong>Collaborative Study Group w/ Kobe University (Japan)</strong>, Sep 2021 - Feb 2022</li>
     <ul>
-        <li> Discussed on achieving Sustainable Development Goals using the strengths of both nations </li>
+        <li> Discussed approaches toward achieving Sustainable Development Goals </li>
     </ul>
 </ul>
 <h4>Volunteer Service</h4>
