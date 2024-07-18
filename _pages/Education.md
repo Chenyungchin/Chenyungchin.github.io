@@ -9,7 +9,8 @@ nav_order: 1
 
 <h4><strong>Timeline</strong></h4>
 <ul>
-    <li> Undergraduate (major: EE), National Taiwan University (Taiwan), Sep 2019 - Jun 2022 </li>
+    <li> Ph.D. student, Princeton University, Aug 2024 (expected) - </li>
+    <li> Undergraduate (major: EE), National Taiwan University (Taiwan), Sep 2019 - Jan 2024 </li>
     <li> Visiting Student, Keio University (Japan), Oct 2022 - Jul 2023 </li>
 </ul>
 
@@ -17,7 +18,8 @@ nav_order: 1
 <ul>
     <!-- <li>Ranking: <strong>4th</strong> / 264 (2%) </li> -->
     <li>Honorary Member of the Phi Tau Phi Scholastic Society <strong>(top 1% of college graduates)</strong></li>
-    <li>Major GPA (Electrical Engineering-related)</li>
+    <li>Major GPA: <strong>4.28</strong> / 4.30</li>
+    <!-- <li>Major GPA (Electrical Engineering-related)</li>
     <ul>
         <li>Overall: <strong>4.28</strong> / 4.30</li>
         <ul>
@@ -34,7 +36,7 @@ nav_order: 1
             <li>Sep'20 ~ Jun'21: <strong>4.23</strong> / 4.30 (top 6%)</li>
             <li>Sep'21 ~ Jun'22: <strong>4.30</strong> / 4.30 (top 1%, <strong>ranked 1st out of 200+ students in both semesters</strong>)</li>
         </ul>
-    </ul>
+    </ul> -->
 </ul>
 
 <h4><strong>Selected Courses</strong></h4>

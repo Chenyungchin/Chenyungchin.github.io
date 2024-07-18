@@ -9,8 +9,8 @@ nav_order: 5
 
 <h4>Research</h4>
 <ul>
-    <li> Sep 2021 - Present, <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab</a>, NTU (Taiwan)</li>
-    <li> Sep 2022 - Present, <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group</a>, Keio (Japan)
+    <li> Sep 2021 - Feb 2024, <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab</a>, NTU (Taiwan)</li>
+    <li> Sep 2022 - Feb 2024, <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group</a>, Keio (Japan)
     <div class="row">
         <div class="col-sm-5 mt-3 mt-md-0">
             {% include figure.html path="assets/img/yoshioka_lab/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -20,6 +20,20 @@ nav_order: 5
 </ul>
 <h4>Academic</h4>
 <ul>
+    <!-- vlsi symposium -->
+    <li>Speaker, ASP-DAC 2024 (Incheon, Korea)
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/aspdac/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/aspdac/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/aspdac/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    </li>
     <!-- vlsi symposium -->
     <li>Attendee, VLSI Symposium 2023 (Kyoto, Japan)
     <div class="row">
@@ -69,12 +83,58 @@ nav_order: 5
 </ul>
 <h4>Extracurricular</h4>
 <ul>
+    <!-- military-->
+    <li><strong>Military Service</strong>, Mar 2024 - Jun 2024</li>
+    <ul>
+        <li> Finished the compulsory military service! </li>
+    </ul>
+    <div class="row">
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/military1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/military2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
     <!-- exchange -->
-    <li><strong>One-year Exchange Student in Keio University, Japan</strong>, Sep 2022 - Aug 2022</li>
+    <li><strong>One-year Exchange Student in Keio University, Japan</strong>, Sep 2022 - Aug 2023</li>
     <ul>
         <li> Accumulated extensive experience in cross-cultural learning and effective communication with individuals from diverse backgrounds </li>
-        <li> Truly an eye-opening experience! Will dump some lovely pics later lmao </li>
+        <li> Truly an eye-opening experience!</li>
     </ul>
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/jp1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/jp2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/jp3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/jp4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/jp5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/jp6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/jp7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/jp8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/experience/jp9.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
     <!-- student ambassador -->
     <li><strong>Student Ambassador of National Taiwan University</strong>, Oct 2021 - Jun 2022</li>
     <ul>
