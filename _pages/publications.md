@@ -10,9 +10,19 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<h4><strong>Authored Works</strong></h4>
+
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}, mentioned!=true]* %}
 {% endfor %}
+
+<h4><strong>Mentioned in Acknowledgement</strong></h4>
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}, mentioned=true]* %}
+{% endfor %}
+
 
 </div>

@@ -9,7 +9,7 @@ nav_order: 1
 
 <h4><strong>Timeline</strong></h4>
 <ul>
-    <li> Ph.D. student, Princeton University, Aug 2024 (expected) - </li>
+    <li> Ph.D. student, Princeton University, Sep 2024 - </li>
     <li> Undergraduate (major: EE), National Taiwan University (Taiwan), Sep 2019 - Jan 2024 </li>
     <li> Visiting Student, Keio University (Japan), Oct 2022 - Jul 2023 </li>
 </ul>
