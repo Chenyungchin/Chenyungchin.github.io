@@ -10,10 +10,21 @@ nav_order: 5
 <h4>Research</h4>
 <ul>
     <li> Sep 2021 - Feb 2024, <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab</a>, NTU (Taiwan)</li>
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/ttl_lab/1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/ttl_lab/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
     <li> Sep 2022 - Feb 2024, <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group</a>, Keio (Japan)
     <div class="row">
-        <div class="col-sm-5 mt-3 mt-md-0">
+        <div class="col-sm-6 mt-3 mt-md-0">
             {% include figure.html path="assets/img/yoshioka_lab/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/yoshioka_lab/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     </li>
@@ -72,7 +83,7 @@ nav_order: 5
 <ul>
     <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2043200&class=&dpt_code=9010&ser_no=81707&semester=112-1&lang=en">Computer Architecture (Fall 2023)</a></li>
     <ul>
-        <li> Design <strong>Verilog</strong> assignments and grade homeworks</li>
+        <li> Design <strong>Verilog</strong> assignments and grade homeworks/exams</li>
     </ul>
 </ul>
 <ul>
