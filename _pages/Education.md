@@ -9,9 +9,20 @@ nav_order: 1
 
 <h4><strong>Timeline</strong></h4>
 <ul>
-    <li> Ph.D. student, Princeton University, Sep 2024 - </li>
-    <li> Undergraduate (major: EE), National Taiwan University (Taiwan), Sep 2019 - Jan 2024 </li>
+    <li> Ph.D. student majoring in ECE, Princeton University (NJ, USA), Sep 2024 - </li>
+    <li> Undergraduate majoring in EE, National Taiwan University (Taiwan), Sep 2019 - Jan 2024 </li>
     <li> Visiting Student, Keio University (Japan), Oct 2022 - Jul 2023 </li>
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/education/princeton.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/education/ntu.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/education/keio.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 </ul>
 
 <h4><strong>Academic Performance</strong></h4>
