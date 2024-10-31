@@ -31,7 +31,21 @@ nav_order: 5
 </ul>
 <h4>Academic</h4>
 <ul>
-    <!-- vlsi symposium -->
+    <!-- iccad -->
+    <li>Speaker, ICCAD 2024 (Newark, New Jersey)
+    <div class="row">
+        <div class="col-sm-3 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/iccad2024/1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/iccad2024/2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/iccad2024/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    </li>
+    <!-- aspdac -->
     <li>Speaker, ASP-DAC 2024 (Incheon, Korea)
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
