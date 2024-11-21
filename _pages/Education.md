@@ -50,7 +50,14 @@ nav_order: 1
     </ul> -->
 </ul>
 
-<h4><strong>Selected Courses</strong></h4>
+<h4><strong>Selected Courses (Princeton)</strong></h4>
+<ul>
+    <li><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=013810">ECE562 Design of Very Large-Scale Integrated (VLSI) Systems (Fall'24)</a>, <strong><u>Currently Enrolled</u></strong></li>
+    <li><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=002540">ECE535 Machine Learning and Pattern Recognition (Fall'24)</a>, <strong><u>Currently Enrolled</u></strong></li>
+    <li><a href="https://www.cs.princeton.edu/courses/archive/fall24/cos516/index.html">ECE516 Automated Reasoning about Software (Fall'24)</a>, <strong><u>Currently Enrolled</u></strong></li>
+    <li><a href="https://web3.princeton.edu/principles-of-blockchains/">ECE470 Principles of Blockchains (Fall'24)</a>, <strong><u>Currently Enrolled</u></strong></li>
+</ul>
+<h4><strong>Selected Courses (NTU)</strong></h4>
 <ul>
     <li><strong> Hardware/ML Related Courses </strong></li>
     <ul>
@@ -117,10 +124,17 @@ nav_order: 1
     </ul>
 </ul>
 
-<h4><strong>Test/Certificate</strong></h4>
+<h4><strong>Languages</strong></h4>
 <ul>
-    <li>TOEFL: <strong>110</strong> / 120 (R30, L29, S24, W27), Nov 2021</li>
-    <li>GRE: <strong>333</strong> / 340 (AW: 4 / 6), August 2022</li>
-    <li>JLPT N1 <strong>129</strong> / 180 (Passed), July 2022</li>
-    <li>JLPT N2 <strong>169</strong> / 180 (Passed), December 2021</li>
+    <li>Chinese (Native)</li>
+    <li>English (Full professional proficiency)</li>
+        <ul>
+            <li>TOEFL: <strong>110</strong> / 120 (R30, L29, S24, W27), Nov 2021</li>
+            <li>GRE: <strong>333</strong> / 340 (AW: 4 / 6), August 2022</li>
+        </ul>
+    <li>Japanese (Professional working proficiency)</li>
+        <ul>
+            <li>JLPT N1 <strong>129</strong> / 180 (Passed), July 2022</li>
+            <li>JLPT N2 <strong>169</strong> / 180 (Passed), December 2021</li>
+        </ul>
 </ul>
