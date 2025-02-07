@@ -52,9 +52,11 @@ nav_order: 1
 
 <h4><strong>Selected Courses (Princeton)</strong></h4>
 <ul>
+    <li><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1254&courseid=002509">ECE575 Computer Architecture (Spring'25)</a>, <strong>Currently Enrolled</strong></li>
+    <li><a href="https://ben-eysenbach.github.io/intro-rl/">COS435 Introduction to Reinforcement Learning (Spring'25)</a>, <strong>Currently Enrolled</strong></li>
     <li><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=013810">ECE562 Design of Very Large-Scale Integrated (VLSI) Systems (Fall'24)</a>, <strong>A</strong></li>
     <li><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=002540">ECE535 Machine Learning and Pattern Recognition (Fall'24)</a>, <strong>A</strong></li>
-    <li><a href="https://www.cs.princeton.edu/courses/archive/fall24/cos516/index.html">ECE516 Automated Reasoning about Software (Fall'24)</a>, <strong>A</strong></li>
+    <li><a href="https://www.cs.princeton.edu/courses/archive/fall24/cos516/index.html">COS516 Automated Reasoning about Software (Fall'24)</a>, <strong>A</strong></li>
     <li><a href="https://web3.princeton.edu/principles-of-blockchains/">ECE470 Principles of Blockchains (Fall'24)</a>, <strong>A</strong></li>
 </ul>
 <h4><strong>Selected Courses (NTU)</strong></h4>
