@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: First Year Ph.D. student in <a href='https://ece.princeton.edu/'>Electrical and Computer Engineering, Princeton University</a>.
+subtitle: Second Year Ph.D. student in <a href='https://ece.princeton.edu/'>Electrical and Computer Engineering, Princeton University</a>.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year ECE Ph.D. student at Princeton University working in <a href='https://nverma.princeton.edu/'>Verma Lab</a>, advised by Prof. <a href='https://ece.princeton.edu/people/naveen-verma'>Naveen Verma</a>. I completed my undergrad in EE from National Taiwan University and am honored to be recognized as an honorary member of Phi Tau Phi Scholastic Society, awarded to the top 1% of college graduates. I have had the privilege to work in the <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab, NTU</a>, advised by <a href="https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943022">Prof. Tsung-Te Liu</a>, and the <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group, Keio (Japan)</a>, advised by <a href="https://www.st.keio.ac.jp/en/tprofile/elec/yoshioka_kentaro.html">Prof. Kentaro Yoshioka</a>. 
+I am a second-year ECE Ph.D. student at Princeton University working in <a href='https://nverma.princeton.edu/'>Verma Lab</a>, advised by Prof. <a href='https://ece.princeton.edu/people/naveen-verma'>Naveen Verma</a>. I completed my undergrad in EE from National Taiwan University and am honored to be recognized as an honorary member of Phi Tau Phi Scholastic Society, awarded to the top 1% of college graduates. I have had the privilege to work in the <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab, NTU</a>, advised by <a href="https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943022">Prof. Tsung-Te Liu</a>, and the <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group, Keio (Japan)</a>, advised by <a href="https://www.st.keio.ac.jp/en/tprofile/elec/yoshioka_kentaro.html">Prof. Kentaro Yoshioka</a>. 
 
 My research interests span energy-efficient Neural Network Processing and AI acceleration, with a particular focus on Memory-Centric Architectures and In-memory Computing Circuits. I am also interested in Neural Network Algorithms and Computer Architectures.
 
