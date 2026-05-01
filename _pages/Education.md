@@ -25,31 +25,35 @@ nav_order: 1
     </div>
 </ul>
 
-<h4><strong>Academic Performance</strong></h4>
-<ul>
-    <!-- <li>Ranking: <strong>4th</strong> / 264 (2%) </li> -->
-    <li>Honorary Member of the Phi Tau Phi Scholastic Society <strong>(top 1% of college graduates)</strong></li>
-    <li>Major GPA: <strong>4.28</strong> / 4.30</li>
-    <!-- <li>Major GPA (Electrical Engineering-related)</li>
+<!--
+    <h4><strong>Academic Performance</strong></h4>
     <ul>
-        <li>Overall: <strong>4.28</strong> / 4.30</li>
+        <li>Ranking: <strong>4th</strong> / 264 (2%) </li>
+        <li>Honorary Member of the Phi Tau Phi Scholastic Society <strong>(top 1% of college graduates)</strong></li>
+        <li>Major GPA: <strong>4.28</strong> / 4.30</li>
+        <!-- <li>Major GPA (Electrical Engineering-related)</li>
         <ul>
-            <li>Sep'19 ~ Jun'20: <strong>4.26</strong> / 4.30</li>
-            <li>Sep'20 ~ Jun'21: <strong>4.30</strong> / 4.30</li>
-            <li>Sep'21 ~ Jun'22: <strong>4.30</strong> / 4.30</li>
+            <li>Overall: <strong>4.28</strong> / 4.30</li>
+            <ul>
+                <li>Sep'19 ~ Jun'20: <strong>4.26</strong> / 4.30</li>
+                <li>Sep'20 ~ Jun'21: <strong>4.30</strong> / 4.30</li>
+                <li>Sep'21 ~ Jun'22: <strong>4.30</strong> / 4.30</li>
+            </ul>
+        </ul>
+        <li>GPA</li>
+        <ul>
+            <li>Overall: <strong>4.25</strong> / 4.30</li>
+            <ul>
+                <li>Sep'19 ~ Jun'20: <strong>4.23</strong> / 4.30 (top 4%)</li>
+                <li>Sep'20 ~ Jun'21: <strong>4.23</strong> / 4.30 (top 6%)</li>
+                <li>Sep'21 ~ Jun'22: <strong>4.30</strong> / 4.30 (top 1%, <strong>ranked 1st out of 200+ students in both semesters</strong>)</li>
+            </ul>
         </ul>
     </ul>
-    <li>GPA</li>
-    <ul>
-        <li>Overall: <strong>4.25</strong> / 4.30</li>
-        <ul>
-            <li>Sep'19 ~ Jun'20: <strong>4.23</strong> / 4.30 (top 4%)</li>
-            <li>Sep'20 ~ Jun'21: <strong>4.23</strong> / 4.30 (top 6%)</li>
-            <li>Sep'21 ~ Jun'22: <strong>4.30</strong> / 4.30 (top 1%, <strong>ranked 1st out of 200+ students in both semesters</strong>)</li>
-        </ul>
-    </ul> -->
-</ul>
+-->
 
+
+<!--
 <h4><strong>Selected Courses (Princeton)</strong></h4>
 <ul>
     <li><a href="https://registrar.princeton.edu/course-offerings/course-details?term=1254&courseid=002509">ECE575 Computer Architecture (Spring'25)</a>, <strong>A</strong></li>
@@ -59,6 +63,8 @@ nav_order: 1
     <li><a href="https://www.cs.princeton.edu/courses/archive/fall24/cos516/index.html">COS516 Automated Reasoning about Software (Fall'24)</a>, <strong>A</strong></li>
     <li><a href="https://web3.princeton.edu/principles-of-blockchains/">ECE470 Principles of Blockchains (Fall'24)</a>, <strong>A</strong></li>
 </ul>
+-->
+<!--
 <h4><strong>Selected Courses (NTU)</strong></h4>
 <ul>
     <li><strong> Hardware/ML Related Courses </strong></li>
@@ -67,34 +73,33 @@ nav_order: 1
             <ul>
                 <li>Taped out a 180nm American Option Pricing chip. <a href="../projects/American_Option_Pricing">(link)</a></li>
             </ul>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2033700&class=&dpt_code=9010&ser_no=55152&semester=110-2&lang=EN">Introduction to Electronic Design Automation (Spring'22)</a>, <strong>A+</strong> </li>
             <ul>
                 <li>Implemented a Reverse Engineering High-level Logic Solver. <a href="../projects/EDA_final">(link)</a></li>
                 <li>Our work received the highest grade among 25+ groups</li>
             </ul>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2040500&class=&dpt_code=9010&ser_no=27227&semester=110-1&lang=EN">Integrated Circuit Design (Fall'21)</a>, <strong>A+</strong> </li>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2039500&class=&dpt_code=9010&ser_no=74051&semester=110-1&lang=EN">Digital Circuit Lab (Fall'21)</a>, <strong>A+</strong> </li>
             <ul>
                 <li>Designed a hand-motion-controlled game using FPGA. <a href="../projects/FPGA_Doodle">(link)</a></li>
             </ul>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=921%20U9330&class=&dpt_code=9430&ser_no=53046&semester=110-1&lang=EN">Digital Signal Processing in VLSI Design (Fall'21)</a>(graduate level), <strong>A+</strong> </li>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=921%20U2620&class=&dpt_code=9210&ser_no=18372&semester=109-2&lang=EN">Machine Learning (Spring'21)</a>(graduate level), <strong>A+</strong> </li>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2020150&class=04&dpt_code=9010&ser_no=44122&semester=109-2&lang=EN">Microelectronics II (Spring'21)</a>, <strong>A+</strong> </li>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2020140&class=03&dpt_code=9010&ser_no=87830&semester=109-1&lang=EN">Microelectronics I (Fall'20)</a>, <strong>A+</strong> </li>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2043200&class=&dpt_code=9010&ser_no=85525&semester=108-2&lang=EN">Computer Architectures (Spring'20)</a>, <strong>A+</strong> </li>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2020100&class=01&dpt_code=9010&ser_no=19575&semester=108-2&lang=EN">Electronic Circuits (Spring'20)</a>, <strong>A+</strong> </li>
-        <!--  -->
+        
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2032300&class=02&dpt_code=9010&ser_no=43264&semester=108-1&lang=EN">Switching Circuit and Logic Design (Fall'19)</a>, <strong>A+</strong> </li>
-        <!--  -->
     </ul>
     <li><strong> Software Courses / Cornerstone Courses </strong></li>
     <ul>
@@ -125,18 +130,19 @@ nav_order: 1
         <li><a href="https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2038100&class=&dpt_code=9010&ser_no=44514&semester=108-1&lang=EN">Modern Physics (Fall'19)</a>, <strong>A+</strong> </li>
     </ul>
 </ul>
+-->
 
 <h4><strong>Languages</strong></h4>
 <ul>
     <li>Chinese (Native)</li>
     <li>English (Full professional proficiency)</li>
-        <ul>
+        <!-- <ul>
             <li>TOEFL: <strong>110</strong> / 120 (R30, L29, S24, W27), Nov 2021</li>
             <li>GRE: <strong>333</strong> / 340 (AW: 4 / 6), August 2022</li>
-        </ul>
+        </ul> -->
     <li>Japanese (Professional working proficiency)</li>
-        <ul>
+        <!-- <ul>
             <li>JLPT N1 <strong>129</strong> / 180 (Passed), July 2022</li>
             <li>JLPT N2 <strong>169</strong> / 180 (Passed), December 2021</li>
-        </ul>
+        </ul> -->
 </ul>

@@ -3,7 +3,7 @@ layout: page
 permalink: /honors/
 title: Honors
 description: 
-nav: true
+nav: false
 nav_order: 4
 ---
 
@@ -31,21 +31,21 @@ nav_order: 4
     <li><strong>Irving T. Ho Memorial Scholarship</strong>, <a href="https://irvingthofoundation.github.io/index.php.htm">Irving T. Ho Memorial Foundation</a>, Dec 2022</li>
         <ul>
             <li> Awarded to <strong>4 NTUEE students</strong> for their research potentials</li>
-            <li> Prize: 40000TWD (~1300 USD) </li>
+            <!-- <li> Prize: 40000TWD (~1300 USD) </li> -->
         </ul>
     <li><a href="http://www.ta-yung.com.tw/">The Memorial Scholarship Foundation to Lin Hsiung Chen</a>, Nov 2022</li>
         <ul>
             <li> Awarded to <strong>50 nationwide undergraduates</strong> for their academic excellences (acceptance rate ~ 2%)</li>
-            <li> Prize: 150000TWD (~4800 USD) </li>
+            <!-- <li> Prize: 150000TWD (~4800 USD) </li> -->
         </ul>
     <li>Study Abroad Scholarship, <a href="https://www.jasso.go.jp/en/ryugaku/scholarship_j/ukeire.html">Japan Student Services Organization (JASSO)</a> </li>
         <ul>
             <li> Awarded to outstanding international students studying in Japan, Sep 2022 ~ Jul 2023</li>
-            <li> Total Prize: 880000JPY (~6100 USD) </li>
+            <!-- <li> Total Prize: 880000JPY (~6100 USD) </li> -->
         </ul>
 </ul>
 
-<h4> Research Fundings </h4>
+<!-- <h4> Research Fundings </h4>
 <ul>
     <li> Research Grant, <a href="https://www.nstc.gov.tw/">National Science and Technology Council, Taiwan</a>, Jul 2022 ~ Jan 2023</li>
         <ul>
@@ -55,4 +55,4 @@ nav_order: 4
         <ul>
             <li> Research Topic: Digital Computing-In-Memory Circuits</li>
         </ul>
-</ul>
+</ul> -->
