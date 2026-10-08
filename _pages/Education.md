@@ -9,8 +9,17 @@ nav_order: 1
 
 <h4><strong>Timeline</strong></h4>
 <ul>
-    <li> Ph.D. student majoring in ECE, Princeton University (NJ, USA), Sep 2024 - </li>
-    <li> Undergraduate majoring in EE, National Taiwan University (Taiwan), Sep 2019 - Jan 2024 </li>
+    <li> Ph.D. student majoring in ECE, Princeton University (NJ, USA), Sep 2024 -
+        <ul>
+            <li>GPA: 3.88 / 4.00</li>
+        </ul>
+    </li>
+    <li> Undergraduate majoring in EE, National Taiwan University (Taiwan), Sep 2019 - Jan 2024
+        <ul>
+            <li>Overall GPA: 4.23 / 4.30 (3.99 / 4.00)</li>
+            <li>Major GPA: 4.28 / 4.30 (4.00 / 4.00)</li>
+        </ul>
+    </li>
     <li> Visiting Student, Keio University (Japan), Oct 2022 - Jul 2023 </li>
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">

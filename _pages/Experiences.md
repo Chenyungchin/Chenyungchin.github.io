@@ -7,8 +7,17 @@ nav: true
 nav_order: 5
 ---
 
+<h4>Work</h4>
+<ul>
+    <li><strong>Research Intern</strong>, <a href="https://www.enchargeai.com/">EnCharge AI Inc.</a>, Aug 2026 - Dec 2026 (Santa Clara, CA)</li>
+    <ul>
+        <li>Supervisor: Chia-Yu Chen</li>
+        <li>Developing model-quantization methods for IMC architectures</li>
+    </ul>
+</ul>
 <h4>Research</h4>
 <ul>
+    <li> Jan 2025 - Present, <a href="https://nverma.princeton.edu/">Verma Lab</a>, Princeton University (USA), advised by <a href="https://ece.princeton.edu/people/naveen-verma">Prof. Naveen Verma</a></li>
     <li> Sep 2021 - Feb 2024, <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab</a>, NTU (Taiwan)</li>
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
@@ -31,6 +40,7 @@ nav_order: 5
 </ul>
 <h4>Academic</h4>
 <ul>
+    <li>Attendee, MLSys 2026 (Bellevue, WA, USA)</li>
     <!-- iccad -->
     <li>Speaker, ICCAD 2024 (Newark, New Jersey)
     <div class="row">
@@ -87,6 +97,9 @@ nav_order: 5
     </ul>
 </ul>
 <h4>Teaching Assistant</h4>
+<ul>
+    <li><strong>Design of VLSI Systems</strong> (Fall 2025) — Prof. Naveen Verma</li>
+</ul>
 <ul>
     <li><a href="https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab">EECS Lab</a> Undergraduate Research (Fall 2022, 2023)</li>
     <ul>
