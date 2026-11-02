@@ -9,7 +9,7 @@ nav_order: 1
 
 <h4><strong>Timeline</strong></h4>
 <ul>
-    <li> Ph.D. student majoring in ECE, Princeton University (NJ, USA), Sep 2024 -
+    <li> Ph.D. student majoring in ECE, Princeton University (NJ, USA), Sep 2024 - Now
         <ul>
             <li>GPA: 3.88 / 4.00</li>
         </ul>

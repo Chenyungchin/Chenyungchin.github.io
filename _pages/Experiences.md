@@ -40,9 +40,10 @@ nav_order: 5
 </ul>
 <h4>Academic</h4>
 <ul>
+    <li>Presenter, EMNLP 2026 (Budapest, Hungary)</li>
     <li>Attendee, MLSys 2026 (Bellevue, WA, USA)</li>
     <!-- iccad -->
-    <li>Speaker, ICCAD 2024 (Newark, New Jersey)
+    <li>Speaker, ICCAD 2024 (Newark, NJ, USA)
     <div class="row">
         <div class="col-sm-3 mt-3 mt-md-0">
             {% include figure.html path="assets/img/iccad2024/1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
