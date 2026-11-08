@@ -6,7 +6,8 @@ subtitle: Third Year Ph.D. student in <a href='https://ece.princeton.edu/'>Elect
 
 profile:
   align: right
-  image: me.jpg
+  image: profile-2026.jpg
+  alt: Portrait of Yung-Chin Chen
   image_circular: false # crops the image to make it circular
   address: >
     <p>jim.chen.work@gmail.com</p>

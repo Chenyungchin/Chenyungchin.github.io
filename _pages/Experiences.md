@@ -40,8 +40,29 @@ nav_order: 5
 </ul>
 <h4>Academic</h4>
 <ul>
-    <li>Presenter, EMNLP 2026 (Budapest, Hungary)</li>
-    <li>Attendee, MLSys 2026 (Bellevue, WA, USA)</li>
+    <li>Presenter, EMNLP 2026 (Budapest, Hungary)
+    <div class="row">
+        <div class="col-sm-4 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/emnlp2026/3.jpg" alt="Budapest skyline and Chain Bridge at night during EMNLP 2026" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/emnlp2026/2.jpg" alt="Yung-Chin Chen attending EMNLP 2026" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm-3 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/emnlp2026/1.jpg" alt="Budapest Parliament and tram at dusk during EMNLP 2026" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    </li>
+    <li>Attendee, MLSys 2026 (Bellevue, WA, USA)
+    <div class="row">
+        <div class="col-sm-8 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/mlsys2026/5.jpg" alt="Lake Washington near Bellevue during MLSys 2026" class="img-fluid rounded z-depth-1 mlsys-photo mlsys-photo-landscape" %}
+        </div>
+        <div class="col-sm-4 mt-3 mt-md-0">
+            {% include figure.html path="assets/img/mlsys2026/4.jpg" alt="Yung-Chin Chen's MLSys 2026 conference badge" class="img-fluid rounded z-depth-1 mlsys-photo mlsys-photo-badge" %}
+        </div>
+    </div>
+    </li>
     <!-- iccad -->
     <li>Speaker, ICCAD 2024 (Newark, NJ, USA)
     <div class="row">

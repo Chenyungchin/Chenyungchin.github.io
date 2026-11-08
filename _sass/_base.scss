@@ -4,6 +4,56 @@
 
 // Typography
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  line-height: 1.28;
+}
+
+h2 {
+  margin-top: 2.15rem;
+  margin-bottom: 0.9rem;
+  font-size: 1.35rem;
+}
+
+h3 {
+  font-size: 1.16rem;
+}
+
+h4 {
+  font-size: 1.05rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+.post-header {
+  margin-bottom: 1.65rem;
+
+  .post-title {
+    margin-bottom: 0.4rem;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(2.1rem, 5vw, 2.45rem);
+    font-weight: 400;
+    line-height: 1.16;
+    letter-spacing: -0.025em;
+  }
+
+  .desc,
+  .post-description {
+    margin-bottom: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+}
+
 p,
 h1,
 h2,
@@ -37,9 +87,11 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.14em;
 
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-hover-color);
     text-decoration: underline;
   }
 
@@ -85,6 +137,9 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+  box-shadow: none !important;
 
   img {
     width: 100%;
@@ -105,6 +160,25 @@ blockquote {
   }
 }
 
+.btn,
+.btn:focus,
+.btn:active {
+  border-radius: 3px;
+  box-shadow: none !important;
+}
+
+.badge {
+  box-shadow: none;
+  font-weight: 500;
+}
+
+.badge-primary,
+.badge-info,
+.badge-secondary {
+  color: var(--global-hover-text-color) !important;
+  background-color: var(--global-theme-color) !important;
+}
+
 // Citation
 
 .citation,
@@ -118,34 +192,52 @@ blockquote {
   width: 100%;
 
   .address {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
+    margin-top: 0.55rem;
+    margin-bottom: 0.75rem;
+    color: var(--global-text-color-light);
+    font-size: 0.82rem;
+    line-height: 1.45;
+    text-align: center;
 
     p {
       display: inline-block;
       margin: 0;
+      color: inherit;
     }
+  }
+
+  figure {
+    margin-bottom: 0;
   }
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 2.15rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 2.15rem;
 }
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 29%;
+    max-width: 215px;
 
     .address {
       p {
         display: block;
       }
     }
+  }
+}
+
+@media (max-width: 575.98px) {
+  .profile.float-left,
+  .profile.float-right {
+    float: none !important;
+    width: min(64%, 210px);
+    margin: 0 auto 1.35rem;
   }
 }
 
@@ -170,7 +262,11 @@ blockquote {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  opacity: 0.98;
+
+  > .container {
+    min-height: 55px;
+  }
 }
 
 .navbar .dropdown-menu {
@@ -208,10 +304,16 @@ blockquote {
 
   .navbar-brand {
     color: var(--global-text-color);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.03rem;
+    letter-spacing: -0.01em;
   }
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    font-size: 0.88rem;
+    font-weight: 400;
+    letter-spacing: 0.01em;
 
     &:hover {
       color: var(--global-hover-color);
@@ -220,7 +322,7 @@ blockquote {
 
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
-    font-weight: bolder;
+    font-weight: 600;
     color: var(--global-theme-color);
 
     &:hover {
@@ -249,6 +351,9 @@ blockquote {
 }
 
 .navbar-toggler {
+  padding-right: 0;
+  border: 0;
+
   .icon-bar {
     display: block;
     width: 22px;
@@ -289,10 +394,11 @@ blockquote {
 }
 
 #light-toggle {
-  padding: 0;
+  padding: 0 0 0 0.15rem;
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
+  font-size: 0.9rem;
 
   &:hover {
     color: var(--global-hover-color);
@@ -302,15 +408,22 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  margin-top: 2.1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--global-divider-color);
+  text-align: left;
 
   .contact-icons {
-    font-size: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.85rem;
+    align-items: center;
+    font-size: 1.35rem;
 
     a {
       i::before {
-        color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        color: var(--global-text-color-light);
+        transition: color 0.15s ease-in-out;
       }
 
       &:hover {
@@ -322,6 +435,8 @@ blockquote {
   }
 
   .contact-note {
+    margin-top: 0.4rem;
+    color: var(--global-text-color-light);
     font-size: 0.8rem;
   }
 }
@@ -330,29 +445,36 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
+  border-top: 1px solid var(--global-divider-color);
   font-size: 0.75rem;
 
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.45;
   }
 
   a {
     color: var(--global-footer-link-color);
 
     &:hover {
-      color: var(--global-theme-color);
-      text-decoration: none;
+      color: var(--global-hover-color);
+      text-decoration: underline;
     }
   }
 }
 
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  color: var(--global-footer-text-color);
+  font-size: 0.8rem;
+
+  a {
+    color: var(--global-footer-link-color);
+  }
 }
 
 // CV
@@ -548,8 +670,43 @@ footer.sticky-bottom {
 
 // Publications
 
+.mlsys-photo {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.mlsys-photo-landscape {
+  aspect-ratio: 2 / 1;
+}
+
+.mlsys-photo-badge {
+  display: block;
+  width: 66.6667%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .publications {
-  margin-top: 2rem;
+  margin-top: 1.5rem;
+
+  > h4 {
+    margin-top: 2.25rem;
+    margin-bottom: 1.15rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--global-divider-color);
+    color: var(--global-text-color);
+    font-size: 1.05rem;
+    letter-spacing: 0.025em;
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    strong {
+      font-weight: 600;
+    }
+  }
 
   h1 {
     color: var(--global-theme-color);
@@ -568,13 +725,16 @@ footer.sticky-bottom {
   }
 
   h2.year {
-    color: var(--global-divider-color);
+    color: var(--global-theme-color);
     border-bottom: 1px solid var(--global-divider-color);
-    padding-bottom: 0.1rem;
-    margin-top: 1rem;
-    margin-bottom: 0.25rem;
-    line-height: 1;
-    text-align: right;
+    padding-bottom: 0.35rem;
+    margin-top: 1.4rem;
+    margin-bottom: 1rem;
+    font-size: 0.92rem;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: 0.055em;
+    text-align: left;
   }
 
   ol.bibliography {
@@ -583,7 +743,9 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 0.55rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid var(--global-divider-color);
 
       .preview {
         width: 100%;
@@ -592,27 +754,39 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        margin-bottom: 0.22rem;
+        color: var(--global-text-color);
+        font-size: 1.02rem;
+        font-weight: 600;
+        line-height: 1.42;
 
         .venue-text {
-          color: var(--global-text-color-light);
+          color: var(--global-theme-color);
+          font-size: 0.78rem;
           font-weight: 600;
-          margin-right: 0.5rem;
+          letter-spacing: 0.045em;
+          margin-right: 0.45rem;
+          text-transform: uppercase;
         }
       }
 
       .author {
+        color: var(--global-text-color-light);
+        font-size: 0.9rem;
+        line-height: 1.5;
+
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          border-bottom: 1px solid transparent;
 
           &:hover {
-            border-bottom-style: solid;
+            border-bottom-color: var(--global-hover-color);
             text-decoration: none;
           }
         }
 
         >em {
-          border-bottom: 1px solid;
+          color: var(--global-text-color);
+          border-bottom: 0;
           font-style: normal;
         }
 
@@ -628,19 +802,34 @@ footer.sticky-bottom {
         }
       }
 
+      .periodical {
+        color: var(--global-text-color-light);
+        font-size: 0.9rem;
+        line-height: 1.48;
+      }
+
       .links {
+        margin-top: 0.55rem;
+
         a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          margin-left: 0;
+          margin: 0 0.3rem 0.25rem 0;
+          padding: 0.18rem 0.52rem;
+          color: var(--global-text-color-light);
+          background: transparent;
+          border: 1px solid var(--global-divider-color);
+          border-radius: 3px;
+          box-shadow: none;
+          font-size: 0.74rem;
+          font-weight: 500;
+          line-height: 1.45;
+          letter-spacing: 0.02em;
+          text-transform: none;
 
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            color: var(--global-hover-color);
+            background-color: var(--global-secondary-bg-color);
+            border-color: var(--global-accent-color);
+            text-decoration: none;
           }
         }
       }
@@ -697,7 +886,9 @@ footer.sticky-bottom {
       }
 
       div.abstract.hidden.open {
-        border-color: var(--global-text-color);
+        margin-top: 0.5rem;
+        background-color: var(--global-secondary-bg-color);
+        border-color: var(--global-divider-color);
       }
     }
   }
