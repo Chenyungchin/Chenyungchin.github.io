@@ -27,7 +27,7 @@ nav_order: 5
             {% include figure.html path="assets/img/ttl_lab/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-    <li> Sep 2022 - Feb 2024, <a href="https://sites.google.com/keio.jp/keio-csg/home?authuser=0">Computing and Sensing Group</a>, Keio (Japan)
+    <li> Sep 2022 - Feb 2024, <a href="https://keio-csg.github.io/en/">Computing and Sensing Group</a>, Keio (Japan)
     <div class="row">
         <div class="col-sm-6 mt-3 mt-md-0">
             {% include figure.html path="assets/img/yoshioka_lab/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
